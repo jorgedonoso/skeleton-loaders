@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+/* Match my app where I'll be using these skeletons */
+body {
+  background: #18181a;
+}
