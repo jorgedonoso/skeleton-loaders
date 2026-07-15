@@ -6,6 +6,8 @@ export function EntryCardSkeleton() {
         <div className="mx-auto h-24 w-48 rounded bg-zinc-600" />
         <div className="mx-auto h-16 rounded bg-zinc-600" />
         <div className="h-8 rounded bg-zinc-600" />
+        <div className="h-8 rounded bg-zinc-600" />
+        <div className="ml-auto h-8 w-48 rounded bg-zinc-600" />
       </div>
     </div>
   );
